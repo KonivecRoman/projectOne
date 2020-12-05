@@ -6,12 +6,7 @@ public class Main {
         System.out.println("125");
         System.out.println("125");
         System.out.println("125");
-        System.out.println("125");
-        System.out.println("125");
-        System.out.println("125");
-        System.out.println("125");
-        System.out.println("125");
-        System.out.println("125");
-        System.out.println("125");
+        int i = 10;
+        System.out.println(i);
     }
 }
